@@ -1,0 +1,19 @@
+caption{
+    background-color: lightgray;
+    font-weight: bold;
+}
+
+.bolde{
+    font-weight: bolder;
+    font-size: 20px;
+    padding: 4px;
+}
+h3{
+    margin: 5px;
+    text-align: center;
+    color: rgb(123, 80, 0)
+}
+
+.text {
+    padding-bottom: 50px;
+}
